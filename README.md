@@ -3,17 +3,17 @@
 
 An advanced, interactive Amazon Sales Dashboard built in **Power BI** to transform raw transactional data into executive-level insights and operational intelligence.
 
----
+---  
 
 ## 📊 Project Objective
 
 Design a scalable BI solution enabling:
 
-- Real-time KPI monitoring  
-- ASIN-level performance analysis  
-- Geographic sales intelligence  
-- Inventory & pricing optimization  
-- Trend and anomaly detection  
+- `Real-time KPI monitoring`
+- `ASIN-level performance analysis`
+- `Geographic sales intelligence`  
+- `Inventory & pricing optimization ` 
+- `Trend and anomaly detection  `
 
 ---
 
@@ -29,8 +29,8 @@ Design a scalable BI solution enabling:
 
 ## 📈 Advanced DAX Implementation
 
-- KPI Measures (Total Sales, Units Sold, Seller Count)  
-- Time Intelligence (Monthly trends, MoM growth)  
+- KPI Measures (`Total Sales`,` Units Sold`, `Seller Count`)  
+- Time Intelligence (`Monthly trends`, `MoM growth`)  
 - Context-aware calculations using `CALCULATE`, `ALL`, `FILTER`  
 - Dynamic product-level metrics  
 - Shipping status performance tracking  
@@ -85,4 +85,6 @@ Design a scalable BI solution enabling:
 **Nizam**  
 Data Analyst | Power BI Developer  
 Specialized in Interactive BI Systems & Sales Intelligence
+```
+https://lnkd.in/g-EMShYw
 ```
