@@ -3,7 +3,6 @@
 
 An advanced, interactive Amazon Sales Dashboard built in **Power BI** to transform raw transactional data into executive-level insights and operational intelligence.
 
----  
 
 ## 📊 Project Objective
 
